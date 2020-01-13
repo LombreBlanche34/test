@@ -6,4 +6,4 @@ client.on('ready', () => {
     client.user.setActivity("%help", {type:"WATCHING"})
 })
 
-client.login("NjY2MzQ0MTE2Mjc5MzEyMzg1.XhyzWg.UvaxfzTBwGW8NDQmBQJ3yIvjLjY")
+client.login("Y")
